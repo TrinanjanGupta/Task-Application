@@ -32,7 +32,7 @@
                 <input type="text" name="name" class="form-control" placeholder="Name" required>
             </div>
             <div class="form-group col-md-3">
-                <input type="file" name="image" class="form-control" accept="image/*">
+                <input type="file" name="image" class="form-control" accept="image/*" required>
             </div>
             <div class="form-group col-md-3">
                 <input type="text" name="address" class="form-control" placeholder="Address" required>
